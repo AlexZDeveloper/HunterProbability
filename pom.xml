@@ -40,7 +40,7 @@
           <artifactId>exec-maven-plugin</artifactId>
           <version>1.2.1</version>
           <configuration>
-              <mainClass>uniLecs.task108.SubsetsSearching</mainClass>
+              <mainClass>uniLecs.task110.HunterProbability</mainClass>
           </configuration>
       </plugin>
     </plugins>
